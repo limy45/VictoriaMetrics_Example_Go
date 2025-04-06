@@ -1,5 +1,5 @@
 # VictoriaMetrics_Example_Go
-A small example to insert and query data to VictoriaMetrics
+A small example to insert data with InfluxDB line protocol and query data with VictoriaMetrics' HTTP API.
 
 It is simple, but it can help beginner to learn how to write and query data of VictoriaMetrics.
 
