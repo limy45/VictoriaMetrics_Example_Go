@@ -5,4 +5,4 @@ It is simple, but it can help beginner to learn how to write and query data of V
 
 It took me 2 days to run it, it works now.
 
-Hope it help you!
+Hope it can help you!
